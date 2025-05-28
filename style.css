@@ -89,7 +89,7 @@ body {
 /* Post */
 .post {
   background: #fff;
-  padding: 200px;
+  padding: 0px;
   border-radius: 8px;
   box-shadow: 1 0 10px rgba(0,0,0,0.05);
   margin-bottom: 30px;
