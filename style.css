@@ -1,16 +1,6 @@
 /* Reset */
 * 
 
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f8f9fa;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-
     .button-container {
       display: flex;
       gap: 20px;
